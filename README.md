@@ -1,12 +1,15 @@
 # G-code_Thread_Generator
-Application for thread compilation, G-code CNC Turning
 
-THREAD - Application for automatic, algorithmic thread path planning for numerically controlled machine tools (CNC).
+THREAD - Приложение для автоматического, аргоритмического
+постраения траектории нарезания резьбы для станков
+с числовым программным управлением (ЧПУ)
 
-Working principle:
-1. Enter values in the input fields
-2. Click on the "Calculate" button
-3. Get a set of CNC commands for the CNC machine tool
+Принцип работы:
+1. Ввести значения в поля ввода
+2. Нажать по кропке "Расчитать"
+3. Получить набор CNC комманд для станка с ЧПУ
 
-Important!!!
-The programme accepts only integer values, both positive and negative (30, -50) or floating point values (3.14).
+Важно!!!
+Программа принемает только целочисленные знаения
+как положительные, так и отрицательные (30, -50)
+или значения с плавающей точкой (3.14)
