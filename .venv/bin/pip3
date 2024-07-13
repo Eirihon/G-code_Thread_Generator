@@ -1,4 +1,4 @@
-#!/Users/eirihon2012/PycharmProjects/G-Code_Thread/.venv/bin/python
+#!/Users/eirihon2012/Documents/GitHub/G-code_Thread_Generator/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
